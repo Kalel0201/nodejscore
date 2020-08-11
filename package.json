@@ -18,7 +18,7 @@
         "nodejs-ioc-container": "2.0.0",
         "gridfs-stream": "0.4.1",
         "errorhandler": "~1.5.0",
-        "passport": "0.3.2",
+        "passport": "0.4.1",
         "uglify-js": "2.4.14",
         "q": "^1.0.1",
         "clean-css": "^2.2.23",
