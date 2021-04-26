@@ -4,7 +4,7 @@
         "express": "4.17.1",
         "express-session": "1.17.1",
         "express-validator": "2.21.0",
-        "connect-mongo": "0.4.2",
+        "connect-mongo": "4.4.1",
         "cookie-parser": "1.4.5",
         "gridfs-stream": "0.5.3",
         "passport": "0.2.2",
